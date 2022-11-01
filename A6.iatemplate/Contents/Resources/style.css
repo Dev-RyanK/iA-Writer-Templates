@@ -1,0 +1,8 @@
+@import "//cdn.jsdelivr.net/npm/font-kopub@1.0/kopubbatang.min.css";
+
+.test {
+  font-family: 'KoPub Batang';
+  font-weight: 300;
+  padding-left: 10mm;
+  padding-right: 10mm;
+}
